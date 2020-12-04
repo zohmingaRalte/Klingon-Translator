@@ -36,6 +36,7 @@ nav {
 .nav-bar {
   font-size: 3rem;
   padding: 2rem;
+  padding-bottom: 1.3rem;
 }
 
 /* MAIN */
@@ -102,12 +103,12 @@ footer {
 
 footer div {
   color: whitesmoke;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 footer p {
   color: whitesmoke;
   max-width: 600px;
   margin: auto;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
